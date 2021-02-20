@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Pamepa Eu Te Amo</div>
+    return <div>Pamela, Eu Te Amo!!!</div>
 }
 
 export default Home
